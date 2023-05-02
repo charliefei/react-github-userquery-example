@@ -1,0 +1,26 @@
+.list {
+  margin: 0 auto;
+  margin-top: 20px;
+  /* width: 800px; */
+  height: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.list:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.list-item {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  border-radius: 50%;
+}
